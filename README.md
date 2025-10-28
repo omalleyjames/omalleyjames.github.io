@@ -6,7 +6,7 @@ I'm a Mechatronics Engineering graduate transitioning into **Data Analytics**.
 
 ## 📊 Featured Projects
 
-- 🧩 [Customer Segmentation (K-Means)](https://github.com/omalleyjames/customer-segmentation)
+- 🧩 [ClinicCallback](https://github.com/omalleyjames/ClinicCallback)
   - Clustering analysis on retail data to identify customer types.
 - ⚙️ [Predictive Maintenance Model](https://github.com/omalleyjames/predictive-maintenance)
   - ML model predicting machine failure using sensor data.
